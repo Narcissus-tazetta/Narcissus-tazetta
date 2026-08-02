@@ -5,4 +5,5 @@
 ![Top Languages(light)](./profile/light/top-langs.svg#gh-light-mode-only)
 ![Top Languages(dark)](./profile/dark/top-langs.svg#gh-dark-mode-only)
 
-## My portfolio is [here](https://narcissus-tazetta.github.io/Portfolio/)!
+[![Portfolio(light)](./profile/light/portfolio.svg#gh-light-mode-only)](https://narcissus-tazetta.github.io/Portfolio/)
+[![Portfolio(dark)](./profile/dark/portfolio.svg#gh-dark-mode-only)](https://narcissus-tazetta.github.io/Portfolio/)

@@ -5,5 +5,10 @@
 ![Top Languages(light)](./profile/light/top-langs.svg#gh-light-mode-only)
 ![Top Languages(dark)](./profile/dark/top-langs.svg#gh-dark-mode-only)
 
-[![Portfolio(light)](./profile/light/portfolio.svg#gh-light-mode-only)](https://narcissus-tazetta.github.io/Portfolio/)
-[![Portfolio(dark)](./profile/dark/portfolio.svg#gh-dark-mode-only)](https://narcissus-tazetta.github.io/Portfolio/)
+<a href="https://narcissus-tazetta.github.io/Portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/dark/portfolio.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/light/portfolio.svg">
+    <img alt="Portfolio" src="./profile/light/portfolio.svg">
+  </picture>
+</a>

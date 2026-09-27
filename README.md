@@ -5,7 +5,7 @@
 ![Top Languages(light)](./profile/light/top-langs.svg#gh-light-mode-only)
 ![Top Languages(dark)](./profile/dark/top-langs.svg#gh-dark-mode-only)
 
-<a href="https://narcissus-tazetta.github.io/Portfolio/">
+<a href="https://prason.dev/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/dark/portfolio.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/light/portfolio.svg">

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Prason's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 1368, Total PRs: 162, Total Issues: 101, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 1375, Total PRs: 162, Total Issues: 101, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 101.14293145167731;
+        stroke-dashoffset: 101.12479182429811;
       }
     }
   
